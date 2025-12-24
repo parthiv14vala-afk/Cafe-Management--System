@@ -27,7 +27,7 @@ int main()
                 Bill_Payment();
                 break;
             case 3:
-                printf("\nDipali's Cafe\n\n");
+                printf("\nPV's Cafe\n\n");
                 printf("This session order received : %d\n", token);
                 printf("This session bill paid      : %d\n\n", payment_counter);
                 if (payment_counter < token)
